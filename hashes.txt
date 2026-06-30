@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Der Tag als du gingst
+
+This log tracks the cryptographic history and versioning for the song **Der Tag als du gingst** (der-tag-als-du-gingst).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T22:49:14.395718 | `v1` | `7d1fc2f2127dee7ed6461147456989a3521f9ff4aeaa8ff7096272cc5afd6760` | `27dcd763cab3949dd008b1dd10c4a3b8cf54cc656fdababfa53ddf1576a8eeb2` | `2026-06-30_der-tag-als-du-gingst-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

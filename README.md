@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-tag-als-du-gingst/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Der Tag als du gingst](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-tag-als-du-gingst/) |
+| **Get License** | [Music Rights & Licensing for Der Tag als du gingst](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-tag-als-du-gingst/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7d1fc2f2127dee7ed6461147456989a3521f9ff4aeaa8ff7096272cc5afd6760` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
